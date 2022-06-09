@@ -6,11 +6,9 @@
   grid-template-columns: 1fr 2fr;
   gap: 100px;
 }
-
 .experiencia .subtitulo {
   color: #e0e0e0;
 }
-
 .experiencia-texto {
   font-size: 1.5rem;
   line-height: 1.33;
@@ -18,7 +16,6 @@
   margin-bottom: 60px;
   color: #525252;
 }
-
 .experiencia-texto {
   color: #141414;
 }
@@ -96,11 +93,11 @@
   .empresa-ano {
     position: initial;
     order: 1;
-    width:initial;
+    width: initial;
     text-align: left;
   }
   .empresa-ano::before {
-    content: "Período: ";
+    content: 'Período: ';
   }
 }
 
